@@ -1,0 +1,15 @@
+{
+  "title" : "Blank HTML5 Starter Web App",
+  "projectTypeName" : "com.intel.xdk.projecttype.webapp",
+  "sample" : true,
+  "template" : false,
+  "visible" : true,
+  "sortWeight" : "0.9",
+  "repoName" : "sample-html5-starter-app",
+  "tooltip" : "Blank starter app to to create an HTML5 mobile web app.",
+  "description" : "Use this sample as a starter app to develop cross-platform mobile HTML5 web apps that can be built to run on various mobile devices.",
+  "articleUrl" : "https://github.com/gomobile/sample-html5-starter-app/",
+  "keywords" : ["Webapp","Template"],
+  "targets" : [""],
+  "runtimes" : [""]
+}
