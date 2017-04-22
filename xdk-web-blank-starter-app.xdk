@@ -31,8 +31,8 @@
           "android-signed": true
         },
         "isActive_": true,
-        "appName_": "Intel XDK Template",
-        "appID_": "xdk.intel.template",
+        "appName_": "Intel XDK Sample",
+        "appID_": "xdk.intel.sample",
         "appAccess_": {
           "mode": "whitelist",
           "network": ["*"],
@@ -54,7 +54,7 @@
         "certificateId_": "",
         "appVersion_": "0.0.1",
         "appVersionCode_": "1",
-        "appDescription_": "Intel XDK template",
+        "appDescription_": "Intel XDK Sample",
         "appAuthor_": "Intel XDK"
       },
       "iOS": {
@@ -71,8 +71,8 @@
           "Orientation": "portrait"
         },
         "isActive_": true,
-        "appName_": "Intel XDK Template",
-        "appID_": "xdk.intel.template",
+        "appName_": "Intel XDK Sample",
+        "appID_": "xdk.intel.sample",
         "appAccess_": {
           "mode": "whitelist",
           "network": ["*"],
@@ -96,7 +96,7 @@
         "certificateId_": "",
         "appVersion_": "0.0.1",
         "appVersionCode_": "1",
-        "appDescription_": "Intel XDK template",
+        "appDescription_": "Intel XDK Sample",
         "appAuthor_": "Intel XDK"
       },
       "Windows8": {
@@ -112,8 +112,8 @@
           "Orientation": "portrait"
         },
         "isActive_": true,
-        "appName_": "Intel XDK Template",
-        "appID_": "xdk.intel.template",
+        "appName_": "Intel XDK Sample",
+        "appID_": "xdk.intel.sample",
         "appAccess_": {
           "mode": "whitelist",
           "network": ["*"],
@@ -134,7 +134,7 @@
         "certificateId_": "",
         "appVersion_": "0.0.0.1",
         "appVersionCode_": "1",
-        "appDescription_": "Intel XDK template",
+        "appDescription_": "Intel XDK Sample",
         "appAuthor_": "Intel XDK"
       },
       "WebApp": {
@@ -144,8 +144,8 @@
         "preferences_": {},
         "isActive_": true,
         "certificateId_": "",
-        "appName_": "Intel XDK Template",
-        "appID_": "xdk.intel.template",
+        "appName_": "Intel XDK Sample",
+        "appID_": "xdk.intel.sample",
         "appAccess_": {
           "mode": "whitelist",
           "network": ["*"],
@@ -157,7 +157,7 @@
         "addlPermissions_": "",
         "excludedLibraries_": "",
         "appVersion_": "0.0.1",
-        "appDescription_": "Intel XDK template",
+        "appDescription_": "Intel XDK Sample",
         "appAuthor_": "Intel XDK"
       },
       "Chrome": {
@@ -177,10 +177,10 @@
         "splashes_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
-        "appName_": "Intel XDK Template",
-        "appID_": "xdk.intel.template",
+        "appName_": "Intel XDK Sample",
+        "appID_": "xdk.intel.sample",
         "appVersion_": "0.0.1",
-        "appDescription_": "Intel XDK template",
+        "appDescription_": "Intel XDK Sample",
         "appAuthor_": "Intel XDK"
       }
     },
